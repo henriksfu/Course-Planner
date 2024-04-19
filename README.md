@@ -24,7 +24,7 @@ The Course Planner Server is a Spring Boot application developed to aid in cours
 - Use the endpoints to retrieve course information, enrollment statistics, and perform dynamic updates.
 
 ## Credits
-This project was developed by [Your Name].
+This project was developed by Henrik Sachdeva.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
